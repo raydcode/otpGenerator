@@ -18,13 +18,13 @@
 ## Install
 
 ```bash
-npm install otp-generator --save
+npm install opt-generator --save
 ```
 
 ## Usage
 
 ```js
-const  {otp}  = require('otpGenerator')
+const  {otp}  = require('opt-generator')
 
 otp(length)
 
