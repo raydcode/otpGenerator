@@ -18,7 +18,7 @@
 ## Install
 
 ```bash
-npm install opt-generator --save
+npm i @raydcode/otp-generator
 ```
 
 ## Usage
