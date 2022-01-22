@@ -1,5 +1,5 @@
 {
-  "name": "opt-generator",
+  "name": "@raydcode/otp-generator",
   "version": "1.0.0",
   "description": "otp generator ",
   "main": "index.js",
