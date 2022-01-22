@@ -1,0 +1,24 @@
+{
+  "name": "opt-generator",
+  "version": "1.0.0",
+  "description": "otp generator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydcode/otpGenerator.git"
+  },
+  "keywords": [
+    "random",
+    "otp",
+    "otp-generator"
+  ],
+  "author": "raydcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raydcode/otpGenerator/issues"
+  },
+  "homepage": "https://github.com/raydcode/otpGenerator#readme"
+}
